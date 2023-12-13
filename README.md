@@ -6,7 +6,6 @@
 - Duc
 - Yared
 
-
 ## Project Steps:
 - Project brief
 - Find Data (include scraping) and clean using Jupyter Notebook
@@ -16,17 +15,20 @@
 - Create prsentation
 - Rehearse presetnation
 
+## Data
+- Global census data
+- Global GDP data
 
 ## Project Schedule (suggested key dates)
 ### Date - Milestone / Activity
-- Thu 14 Dec - Complete briefing document on topic, confirm analysis steps
-- Mon 18 Dec - Divide and conquer?
-- Tue 19 Dec -
-- Thu 14 Dec -
-- Mon 25 Dec -
-- Tue 26 Dec -
-- Thu 28 Dec -
-- Mon 1 Jan 24 - Project group presentation?
+- Thu 14 Dec 23 Complete briefing document on topic, confirm analysis steps
+- Mon 18 Dec 23 Divide and conquer?
+- Tue 19 Dec 23
+- Thu 14 Dec 23
+- Mon 25 Dec 23
+- Tue 26 Dec 23
+- Thu 28 Dec 23
+- Tue 02 Jan 24 - Project group presentation
 
 
 ## Project Proposal - Covid analysis
@@ -45,6 +47,9 @@ The Objective of this study is to look into and gain insights into ....
 -
 -
 
+## Plots/Table
+- GDP(nominal) Vs Infant mortality rate
+- GDP(nominal) per capita Vs Infant mortality rate
 
 ## Other Useful Info
 - 
