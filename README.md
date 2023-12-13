@@ -51,6 +51,14 @@ The Objective of this study is to look into and gain insights into ....
 - GDP(nominal) Vs Infant mortality rate
 - GDP(nominal) per capita Vs Infant mortality rate
 
+## Dashboard stucture
+- Headline
+- Country info table - 1) Name 2) Sub-region 3) Continent 4) Current population 5) Current GDP(nominal) 6) Current GDP(nominal) per capita
+- Dropdown menu 1) Continent 2) Sub-region 3) Country
+- GDP(nominal) Vs Year
+- Population Vs Year
+- 
+
 ## Other Useful Info
 - 
 -
