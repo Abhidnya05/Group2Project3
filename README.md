@@ -7,7 +7,6 @@ Proposal: There is a positive correlation between a country's economic prosperit
 - Duc
 - Yared
 
-
 ## Project Steps:
 - Project brief [done]
 - Find Data (include scraping) and clean using Jupyter Notebook
@@ -17,19 +16,12 @@ Proposal: There is a positive correlation between a country's economic prosperit
 - Create prsentation
 - Rehearse presetnation
 
+## Data
+- Global census data
+- Global GDP data
 
 ## Project Schedule (suggested key dates)
 ### Date - Milestone / Activity
-<<<<<<< Updated upstream
-- Thu 14 Dec - Complete briefing document on topic, confirm analysis steps
-- Mon 18 Dec - Divide and conquer?
-- Tue 19 Dec -
-- Thu 14 Dec -
-- Mon 25 Dec -
-- Tue 26 Dec -
-- Thu 28 Dec -
-- Mon 1 Jan 24 - Project group presentation?
-=======
 - Thu 14 Dec 23 - Submit the project propsal, confirm analysis steps & dates
 - Mon 18 Dec 23 - Upload data (Yared) cleaned data (Abhi & Duc) + pulled into Cloud Database (Bich) + Confirm detailed analysis (each visual + story) + Python Flask with Hamim
 - Tue 19 Dec 23 - 6:30pm-9:30pm confirm data source and troubleshooting + database + Create Python Flask API 
@@ -38,7 +30,6 @@ Proposal: There is a positive correlation between a country's economic prosperit
 - Thu 28 Dec 23 - 6pm completed visual analysis + start presentation 
 - Sun 31 Dec 23 - 10am first rehearsal 
 - Tue 02 Jan 24 - First day - Meet at 5:30pm (1 hour practice) + Project group presentation
->>>>>>> Stashed changes
 
 
 ## Project Proposal - Covid analysis
@@ -57,6 +48,17 @@ The Objective of this study is to look into and gain insights into ....
 - 
 -
 
+## Plots/Table
+- GDP(nominal) Vs Infant mortality rate
+- GDP(nominal) per capita Vs Infant mortality rate
+
+## Dashboard stucture
+- Headline
+- Country info table - 1) Name 2) Sub-region 3) Continent 4) Current population 5) Current GDP(nominal) 6) Current GDP(nominal) per capita
+- Dropdown menu 1) Continent 2) Sub-region 3) Country
+- GDP(nominal) Vs Year
+- Population Vs Year
+- 
 
 ## Other Useful Info
 - 
