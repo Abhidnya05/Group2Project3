@@ -3,16 +3,16 @@ Proposal: There is a positive correlation between a country's economic prosperit
 
 ## Team Members
 - Abhidnya
-- Bich (e: bichjennings@gmail.com)
+- Bich
 - Duc
 - Yared
 
 ## Project Steps:
 - Project brief [done]
-- Find Data (include scraping) and clean using Jupyter Notebook
+- Find Data (include scraping) and clean using Jupyter Notebook [done]
 - Create Database [done]
-- Create Python Flask API - used by JS
-- Visualise data
+- Create Python Flask API - used by JS [done]
+- Visualise data [in progress]
 - Create prsentation
 - Rehearse presetnation
 
@@ -36,11 +36,11 @@ Proposal: There is a positive correlation between a country's economic prosperit
 The Objective of this study is to look into and gain insights into ....
 
 
-## Research Questions 
-- Abhidnya: ... 
-- Bich: ...
-- Duc: ...
-- Yared: ...
+## Task Distribution
+- Abhi: jupyter notebook / CSS styling 
+- Bich: ReadMe / re-import of DB dropping decimal / vis graph
+- Duc: vis graph + drop down menus
+- Yared: vis map
 
 
 ## Data Sources
