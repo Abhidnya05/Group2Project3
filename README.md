@@ -45,8 +45,10 @@ The Objective of this study is to look into and gain insights into ....
 
 ## Data Sources
 - Yared to upload sources - population & GDP
-- 
--
+- Population data <https://population.un.org/wpp/Download/Standard/MostUsed/>
+- GDP data <https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2022&start=1990&view=chart>
+- lat & long data source <https://developers.google.com/public-data/docs/canonical/countries_csv>
+- Js Library list <https://kinsta.com/blog/javascript-libraries/>
 
 ## Plots/Table
 - GDP(nominal) Vs Infant mortality rate
