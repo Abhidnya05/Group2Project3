@@ -27,12 +27,13 @@ The project team has created and interactive dashboard to allow users to explore
 - pgAdmin has been adopted as ther open ciurse management tool for this project
 
 ## Contributors & Support
-- Abhidnya
-- Bich
-- Duc
-- Yared
+- Abhidnya Thakur
+- Bich Jennings
+- Duc Trieu Pham
+- Yared Haile
 
-###TO BE DELETED PRIOR TO SUBMISSION
+##TO BE DELETED PRIOR TO SUBMISSION
+
 ## Project Steps:
 - Project brief [done]
 - Find Data (include scraping) and clean using Jupyter Notebook [done]
