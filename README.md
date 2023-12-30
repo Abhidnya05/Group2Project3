@@ -3,6 +3,11 @@ The aim of our project is to explore the relationship between a country's econom
 health of population and fertility dates around the world. Out hypothesis is there is a positive correlation between economic prosperity and health and wellbring.
 The project team has created and interactive dashboard to allow users to explore census and GPD data.
 
+## How to run the interactive site
+- BICH TO WRITE AFTER WE MERGE THE TWO REPOSITORIES 
+- Launch a virtual environement
+- Run app-solutions.py
+
 ## Limitantions
 - The census data covers the period of 1960 - 2021.
 - During the data cleaning process, smaller countries which had did not have conistent GDP and population data for every year was dropped form the set presented
