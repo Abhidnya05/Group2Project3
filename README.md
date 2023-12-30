@@ -9,9 +9,10 @@ The project team has created and interactive dashboard to allow users to explore
 - For ease of navigation, specific sets of certain of health data was selected for the drop down options
 
 ## Data Sources
-- Population: United Nations Data Portal Population Division: https://population.un.org/wpp/Download/Standard/MostUsed/ 
-- GPD from World Bank: https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2022&start=1990&view=chart 
-- Country locations from Developers Dataset: https://developers.google.com/public-data/docs/canonical/countries_csv  
+- Population data United Nations Data Portal Population Division <https://population.un.org/wpp/Download/Standard/MostUsed/>
+- GDP from World Bank data <https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2022&start=1990&view=chart>
+- lat & long data from Developers Dataset <https://developers.google.com/public-data/docs/canonical/countries_csv>
+- Js Library list <https://kinsta.com/blog/javascript-libraries/>
 
 ## Tools
 - Python Flask-powered API
@@ -58,14 +59,6 @@ The project team has created and interactive dashboard to allow users to explore
 - Duc: vis graph + drop down menus
 - Yared: vis map
 
-
-## Data Sources
-- Yared to upload sources - population & GDP
-- Population data <https://population.un.org/wpp/Download/Standard/MostUsed/>
-- GDP data <https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2022&start=1990&view=chart>
-- lat & long data source <https://developers.google.com/public-data/docs/canonical/countries_csv>
-- Js Library list <https://kinsta.com/blog/javascript-libraries/>
-
 ## Ideas for Plots/Tables
 - GDP(nominal) Vs Infant mortality rate
 - GDP(nominal) per capita Vs Infant mortality rate
@@ -75,11 +68,6 @@ The project team has created and interactive dashboard to allow users to explore
 - Country info table - 1) Name 2) Sub-region 3) Continent 4) Current population 5) Current GDP(nominal) 6) Current GDP(nominal) per capita
 - Dropdown menu 1) Continent 2) Sub-region 3) Country
 - Population Vs Year
-
-## Other Useful Info
-- 
--
--
 
 ## Notes:
 - Recall our Prokect 1 Ststistical Analysis included a null and alternative hypothesis, outlier analysis, t-test discussions
