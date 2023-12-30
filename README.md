@@ -8,7 +8,7 @@ The project team has created and interactive dashboard to allow users to explore
 - Launch a virtual environement
 - Run app-solutions.py
 
-## Limitantions
+## Limitations
 - The census data covers the period of 1960 - 2021.
 - During the data cleaning process, smaller countries which had did not have conistent GDP and population data for every year was dropped form the set presented
 - For ease of navigation, specific sets of certain of health data was selected for the drop down options
@@ -32,7 +32,7 @@ The project team has created and interactive dashboard to allow users to explore
 - Duc
 - Yared
 
-#TO BE DELETED PRIOR TO SUBMISSION
+###TO BE DELETED PRIOR TO SUBMISSION
 ## Project Steps:
 - Project brief [done]
 - Find Data (include scraping) and clean using Jupyter Notebook [done]
